@@ -17,7 +17,7 @@ This exercise demonstrates the use of interfaces and abstraction in C++. The mai
 
 ## How to Run
 
-1. Compile the program with a C++ compiler (like g++):
+- Compile the program with a C++ compiler (like g++):
    ```bash
    g++ chifoumi/Chifoumi.cpp FIFA/FIFA.cpp NFS/NFS.cpp Game.cpp main.cpp -o game
    ```
