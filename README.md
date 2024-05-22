@@ -2,7 +2,7 @@
 
 This exercise demonstrates the use of interfaces and abstraction in C++. The main program is a simple game menu that allows the user to choose between different games or quit the program.
 
-##Files
+## Files
 
 - main.cpp: This is the main driver program. It presents a menu to the user and instantiates the chosen game.
 - Chifoumi.cpp: This file contains the implementation of the Chifoumi game.
